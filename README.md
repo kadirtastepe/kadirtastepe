@@ -13,7 +13,7 @@
 
 ## 🔬 About Me
 
-I'm a **particle physicist** passionate about understanding the fundamental building blocks of the universe through computational methods and experimental data analysis. I bridge the gap between theoretical predictions and experimental observations using advanced simulations and data-driven approaches.
+**A disciple of experience** passionate about understanding the fundamental building blocks of the universe through computational methods and experimental data analysis. 
 
 
 ### 🎯 Research Focus
@@ -34,6 +34,9 @@ I'm a **particle physicist** passionate about understanding the fundamental buil
 </div>
 
 <div align="center">
-  <p>⭐ <i>If you find my work interesting, consider starring some repositories!</i> ⭐</p>
+  <br>
+  <h4>🌌 "La sapienza è figliuola della sperienzia." — Leonardo da Vinci</h5>
+  <br>
+  <p>⭐ <i>Curious to know more? Feel free to follow me!</i> ⭐</p>
 </div>
 
