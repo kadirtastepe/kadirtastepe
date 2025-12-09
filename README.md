@@ -5,7 +5,8 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-tastepe-99ab68197)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ktastepe@cern.ch)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:ktastepe@cern.ch)
+  [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kadirtastepe.github.io)
   
 </div>
 
